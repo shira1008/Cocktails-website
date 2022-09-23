@@ -1,6 +1,7 @@
 # Cocktails website
 I learned how to fetch and display data from API and asynchronous javascript (async and await) 
-Using  TheCocktailDB - An open, crowd-sourced database of drinks and cocktails from around the world.  using the free JSON api
+Using  TheCocktailDB - An open, crowd-sourced database of drinks and cocktails from around the world.  using the free JSON api.
+https://www.thecocktaildb.com/api.php
 
 - added event listener on DOMContentLoaded - fetch and display this URL(presentDrinks.js) - https://www.thecocktaildb.com/api/json/v1/1/search.php?f=s </br>
  meaning that by deafult when visiting the site its gonna display cocktails strating with "s"
