@@ -1,0 +1,12 @@
+**app.js
+
+#presentDrinks
+1.fetchDrinks - toggleLoading - > show
+2.displayDrinks - toggleLoading - > hide
+3.setDrink - click and get the id save in local storage
+
+#searchForm - event by typing
+
+**singleDrink.js
+1.fetchDrinks
+2.displaySingleDrink
