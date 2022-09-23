@@ -6,4 +6,4 @@ TheCocktailDB - https://www.thecocktaildb.com/
 
 
 The live site: </br>
-<a href="https://app.netlify.com/teams/shaharshira1008/overview?_ga=2.65587502.184164055.1662908090-225454543.1658744394"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'></a>
+<a href="https://shira-api-project.netlify.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'></a>
