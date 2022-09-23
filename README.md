@@ -1,5 +1,5 @@
 # Cocktails website
-I learned how to fetch and display data from API and asynchronous javascript (async and await) 
+I learned how to fetch and display data from API , asynchronous javascript (async and await).
 Using  TheCocktailDB - An open, crowd-sourced database of drinks and cocktails from around the world.  using the free JSON api.
 https://www.thecocktaildb.com/api.php
 
